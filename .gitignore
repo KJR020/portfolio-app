@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyc
+
+node_modules/
+npm-debug.log
+yarn-error.log
+.cache
+.next/
+
+images/*
+
+# Docker
+*.env
